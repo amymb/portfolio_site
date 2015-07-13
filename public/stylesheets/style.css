@@ -21,7 +21,7 @@ a {
 }
 
 .index-header{
-  height: 380px;
+  height: 400px;
   background-image: url('/images/Shandyimage.png');
   position: relative;
   responsive: true;
