@@ -21,14 +21,12 @@ a {
 }
 
 .index-header{
-  height: 400px;
   background-image: url('/images/Shandyimage.png');
   position: relative;
-  responsive: true;
-  background-position: center bottom;
+  background-position: center;
   float: left;
   background-size: cover;
-  width:100%;
+  width: 100%;
   background-repeat: no-repeat;
 }
 
@@ -37,10 +35,8 @@ a {
   font-family: 'Essays';
   font-size: 80px;
   line-height: 100px;
-  margin: 230px;
-  padding: 20px 30px;
+  margin-top: 20%;
   text-align: center;
-  text-shadow: 1px 1px black;
 }
 
 .blurb{
